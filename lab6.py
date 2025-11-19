@@ -1,3 +1,6 @@
+
+
+
 import numpy as np
 
 
@@ -28,3 +31,8 @@ def total_displacement(V1x,V1y,V2x,V2y,V3x,V3y):
     return VR, len_VRU
     
    
+
+
+
+
+
